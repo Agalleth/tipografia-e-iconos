@@ -1,0 +1,33 @@
+span{
+  background:red;
+  height: 400;
+  width: 400;
+}
+section>section{
+  display: inline-block;
+  width: 17%;
+  border-bottom: .5px solid lightgray;
+  border-right: .5px solid lightgray;
+  background: #FBFBFB;
+  color: #707070;
+  height: 300px;
+  vertical-align: middle;
+}
+section>img{
+  display: block;
+  margin: 0 auto;
+}
+section>h2,section>h6,section>p{
+  text-align: center;
+}
+.selected{
+  background: white;
+  color: #D6DFEC;
+}
+i{
+  color: gray;
+  width: 10px;
+  height: 10px;
+  margin-left: 43%;
+  margin-top: 35px;
+}
