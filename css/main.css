@@ -1,3 +1,8 @@
+body{
+  font-family: 'Quattrocento', serif;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 13px;
+}
 span{
   background:red;
   height: 400;
